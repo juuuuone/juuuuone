@@ -23,9 +23,10 @@
 <img src="https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeSCript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/react-green?style=for-the-badge&logo=react&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white" />
-<br>
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 
 </div>
