@@ -48,11 +48,6 @@
 
 </div>
 
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juuuuone&include_orgs=true)
-
-</div>
 
 <!-- SVG 코드 삽입 -->
 <svg width="576.5" height="120" viewBox="0 0 576.5 120" fill="#fffefe" xmlns="http://www.w3.org/2000/svg">
