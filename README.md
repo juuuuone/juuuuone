@@ -1,6 +1,9 @@
 ## 🐧
 <br>
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juuuuone&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 40%; height: 10%; margin-top: 20px;" />
+</div>
 <div>
 
 # 💻 Tech Stack:
@@ -41,10 +44,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juuuuone&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 40%; height: 10%; margin-top: 20px;" />
-</div>
 
 </div>
 
