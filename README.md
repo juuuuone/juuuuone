@@ -51,6 +51,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juuuuone&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 40%; height: 10%; margin-top: 20px;" />
 </div>
 
+</div>
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juuuuone&include_orgs=true)
+
+
+</div>
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
