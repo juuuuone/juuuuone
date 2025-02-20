@@ -38,14 +38,12 @@
 
 <div style="display: flex; justify-content: center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=juuuuone&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="width: 45%; margin-right: 10px" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=juuuuone&theme=dark&hide_border=false" width=50% />
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juuuuone&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 40%; height: 10%; margin-top: 20px;" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=juuuuone&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="width: 45%; margin-right: 10px" />
+
+
 
 </div>
 
