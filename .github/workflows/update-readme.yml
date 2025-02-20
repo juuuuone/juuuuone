@@ -1,6 +1,8 @@
-name: Update GitHub Stats in README
+name: Update README with Organization Stats
 
 on:
+  schedule:
+    - cron: "0 */12 * * *"  # 12시간마다 자동 실행
   workflow_dispatch:  # 수동 실행 가능
 
 jobs:
@@ -12,7 +14,7 @@ jobs:
 
       - name: Update README with GitHub Stats
         run: |
-          curl -o README.md "https://github-readme-stats.vercel.app/api/top-langs/?username=juuuuone&include_orgs=true&token=${{ secrets.ORGANIZATION_TOKEN }}"
+          curl -o README.md "https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&include_orgs=true&token=${{ secrets.ORGANIZATION_TOKEN }}"
 
       - name: Commit and Push Changes
         run: |
