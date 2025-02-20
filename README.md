@@ -40,14 +40,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=juuuuone&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="width: 45%; margin-right: 10px" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juuuuone&theme=dark&hide_border=false" width=50% />
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=juuuuone&theme=dark&hide_border=false" width=50% />
 
-</div>
 
 
 </div>
