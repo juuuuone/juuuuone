@@ -1,6 +1,6 @@
-# My GitHub Profile
+<details>
+<summary>Click to view the GitHub Top Languages chart</summary>
 
-## Most Used Languages
 <svg
     width="300"
     height="285"
@@ -155,6 +155,7 @@
             <svg width="205" x="0" y="25">
               <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
               <svg data-testid="lang-progress" width="2%">
+
                 <rect
                     height="8"
                     fill="#e34c26"
@@ -207,3 +208,5 @@
       </svg>
     </g>
 </svg>
+
+</details>
