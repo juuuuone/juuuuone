@@ -42,12 +42,10 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juuuuone&theme=dark&hide_border=false&cache=1700000000" width=50% />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juuuuone&theme=dark&hide_border=false" width=50% />
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juuuuone&theme=dark&hide_border=false&cache=1700000000" width=50% />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juuuuone&theme=dark&hide_border=false" width=50% />
 
 </div>
 
