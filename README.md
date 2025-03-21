@@ -8,9 +8,30 @@
  <div>
  
  # 💻 Tech Stack:
- @@ -30,6 +26,7 @@
- <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white" />
- <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVA-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/MYSQL-%2300000f?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-fc6d26?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<br>
+<img src="https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeSCript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/react-green?style=for-the-badge&logo=react&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+
+</div>
  
  
  </div>
