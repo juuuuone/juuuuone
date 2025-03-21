@@ -5,7 +5,6 @@
  ## 🐧
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juuuuone&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 40%; height: 10%; margin-top: 20px;" />
  </div>
- <div>
  
  # 💻 Tech Stack:
 <div align="center">
@@ -34,10 +33,11 @@
 </div>
  
  
- </div>
  <br>
  <br>
- @@ -38,15 +35,47 @@
+
+
+# 📊 GitHub Stats: 
  
  <div style="display: flex; justify-content: center">
  
